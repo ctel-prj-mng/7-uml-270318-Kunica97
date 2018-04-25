@@ -6,7 +6,7 @@
 
 ## Диаграмма последовательности
 
-![](Прецедент 2.jpg)
+![](https://raw.githubusercontent.com/ctel-prj-mng/7-uml-270318-Kunica97/master/%D0%9F%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%202.jpg)
 
 ## Ответы на вопросы
 
